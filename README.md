@@ -1,6 +1,3 @@
-
-![small octocat](https://github.com/atruong07/atruong07/assets/146837696/22779bee-cfd7-4a21-97a0-cc5ba11358fe)
-
 ## Hi there 👋
 🏫 I'm a Sophmore in HS 
 📫 How to reach me: Personal: aivytruong100@gmail.com    School: truonga26@wpsma.org 
