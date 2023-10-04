@@ -1,4 +1,12 @@
 ### Hi there 👋
+-🏫 I'm a Sophmore in HS 
+-📫 How to reach me: Personal: aivytruong100@gmail.com    School: truonga26@wpsma.org 
+Outside of programming, I have a lot of other hobbies and extracurriculars.'
+-📯 I play French Horn in my school's band 
+-🎹 I have been playing piano for 8 years 
+-🎸 I'm currently learning how to play electric guitar. 
+
+
 
 <!--
 **atruong07/atruong07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
