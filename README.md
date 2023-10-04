@@ -1,3 +1,4 @@
+![small octocat better](https://github.com/atruong07/atruong07/assets/146837696/b60f11d8-77c0-4b5b-9f6e-10b00adca17d)
 ## Hi there 👋
 🏫 I'm a Sophmore in HS 
 📫 How to reach me: Personal: aivytruong100@gmail.com    School: truonga26@wpsma.org 
