@@ -6,7 +6,7 @@
 
 -📫 How to reach me: Personal: aivytruong100@gmail.com    School: truonga26@wpsma.org 
 
--Outside of programming, I have a lot of other hobbies and extracurriculars.
+Outside of programming, I have a lot of other hobbies and extracurriculars.
 
 -📯 I play French Horn in my school's band 
 
