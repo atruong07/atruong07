@@ -17,7 +17,7 @@ https://studio.code.org/projects/gamelab/Om2F4hEM0mvVuCnT-Vqk07XBQ3LMlu2CzQfyEQW
 >A pun about a shark and some fish using variables, sprites, scales, rotations, shapes, and fill.
 [Animation]
 >
-[Interactive Card
+[Interactive Card]
 
 [Side Scroller]
 >
