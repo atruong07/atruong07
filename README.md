@@ -1,12 +1,19 @@
 ## Hi there 👋
 ![small octocat better](https://github.com/atruong07/atruong07/assets/146837696/b60f11d8-77c0-4b5b-9f6e-10b00adca17d)
 
+
 -🏫 I'm a Sophmore in HS 
+
 -📫 How to reach me: Personal: aivytruong100@gmail.com    School: truonga26@wpsma.org 
+
 -Outside of programming, I have a lot of other hobbies and extracurriculars.
+
 -📯 I play French Horn in my school's band 
+
 -🎹 I have been playing piano for 8 years 
+
 -🎸 I'm currently learning how to play electric guitar. 
+
 -🗒 My pronouns are she/her 
 
 ### Code.org Game Lab 
