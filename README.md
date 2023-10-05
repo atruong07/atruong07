@@ -7,6 +7,7 @@
 -📯 I play French Horn in my school's band 
 -🎹 I have been playing piano for 8 years 
 -🎸 I'm currently learning how to play electric guitar. 
+-🗒 My pronouns are she/her 
 
 ### Code.org Game Lab 
 https://studio.code.org/projects/gamelab/Om2F4hEM0mvVuCnT-Vqk07XBQ3LMlu2CzQfyEQWAy48
