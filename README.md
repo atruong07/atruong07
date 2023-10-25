@@ -26,8 +26,8 @@ https://studio.code.org/projects/gamelab/Om2F4hEM0mvVuCnT-Vqk07XBQ3LMlu2CzQfyEQW
 >A pun about a shark and some fish using variables, sprites, scales, rotations, shapes, and fill.
 
 
-[Interactive Card](https://studio.code.org/projects/gamelab/5Bs2n54RxbQwQ295LFA9ughUE4TN3GqOvOp0RfbzFK4
-> An interactive card of an invite to a concert using variables, sprites, scales, rotations, if else, and functions
+[Interactive Card](https://studio.code.org/projects/gamelab/5Bs2n54RxbQwQ295LFA9ughUE4TN3GqOvOp0RfbzFK4)
+> An interactive card of an invite to a concert using variables, sprites, scales, rotations, if else, functions, conditionals, and user input. This was a collaborative project with one other person. 
 
 [Side Scroller]
 >
