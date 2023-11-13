@@ -31,8 +31,8 @@ https://studio.code.org/projects/gamelab/Om2F4hEM0mvVuCnT-Vqk07XBQ3LMlu2CzQfyEQW
 
 [Side Scroller](https://studio.code.org/projects/gamelab/zb1r0DtLI9bDEJDuIqAxIdykgqULtDKbx5b82groRSM)
 > An interactive jump and avoid obstacle game using variables, sprites, scales, if, is.Touching, and velocityY. This was a collaborative project with one other person. 
-[Flyer Game]
->
-[Project Desgin a Game] 
+[Flyer Game](https://studio.code.org/projects/gamelab/fPu31y7VefDB4BkUwQGBTA4gWln3V1gSmZOPdtFBNZs)
+> An interactive floating, avoid obstacles and obtain the target game using variables, sprites, scales, if, is.Touching, conditionals, velocityY, and keyDown. This was a collaborative project with one other person. 
+[Project Design a Game] 
 >
 
