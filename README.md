@@ -35,6 +35,6 @@ https://studio.code.org/projects/gamelab/Om2F4hEM0mvVuCnT-Vqk07XBQ3LMlu2CzQfyEQW
 [Flyer Game](https://studio.code.org/projects/gamelab/fPu31y7VefDB4BkUwQGBTA4gWln3V1gSmZOPdtFBNZs)
 > An interactive floating, avoid obstacles and obtain the target game using variables, sprites, scales, if, is.Touching, conditionals, velocityY, and keyDown. This was a collaborative project with one other person. 
 
-[Project Design a Game] 
->
+[Project Design a Game](https://studio.code.org/projects/gamelab/TDU0uPWtUyM0fjsySh5PquyyW2tAHy9knBjhIv1NN9E)
+> An interactive flotating, platform, obtain targets, with buttons and several different screens, using variables, sprites, scales, if, is.Touching, multiple conditionals, velocityY, keyDown, loops, etc. 
 
