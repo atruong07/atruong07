@@ -36,5 +36,10 @@ https://studio.code.org/projects/gamelab/Om2F4hEM0mvVuCnT-Vqk07XBQ3LMlu2CzQfyEQW
 > An interactive floating, avoid obstacles and obtain the target game using variables, sprites, scales, if, is.Touching, conditionals, velocityY, and keyDown. This was a collaborative project with one other person. 
 
 [Project Design a Game](https://studio.code.org/projects/gamelab/TDU0uPWtUyM0fjsySh5PquyyW2tAHy9knBjhIv1NN9E)
-> An interactive flotating, platform, obtain targets, with buttons and several different screens, using variables, sprites, scales, if, is.Touching, multiple conditionals, velocityY, keyDown, loops, etc. 
+> An interactive flotating, platform, obtain targets, with buttons and several different screens, using variables, sprites, scales, if, is.Touching, multiple conditionals, velocityY, keyDown, loops, etc.
 
+[Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=c070a5e5-3016-4d77-870e-e04b44a09f4b)
+> An interactive app where you can press on the instruments one by one to hear the sound it makes!
+
+[Music Maker](https://gallery.appinventor.mit.edu/?galleryid=7d72b78f-c45e-4341-8a45-e1393bf856b5)
+> An interactive app similar to GarageBand! Click on the instruments and make a song or just jam out! 
