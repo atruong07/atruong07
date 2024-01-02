@@ -47,4 +47,7 @@ https://studio.code.org/projects/gamelab/Om2F4hEM0mvVuCnT-Vqk07XBQ3LMlu2CzQfyEQW
 > An interactive app where you press the buttons to play the piano! 
 
 [Music Maker](https://gallery.appinventor.mit.edu/?galleryid=7d72b78f-c45e-4341-8a45-e1393bf856b5)
-> An interactive app similar to GarageBand! Click on the instruments and make a song or just jam out! 
+> An interactive app similar to GarageBand! Click on the instruments and make a song or just jam out!
+
+[Find the Gold](https://ai2.appinventor.mit.edu/#5560083112919040)
+> An interactive app where you tilt the screen to and try not to hit the maze to get gold. Done with a partner
