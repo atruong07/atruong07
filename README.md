@@ -51,3 +51,6 @@ https://studio.code.org/projects/gamelab/Om2F4hEM0mvVuCnT-Vqk07XBQ3LMlu2CzQfyEQW
 
 [Find the Gold](https://ai2.appinventor.mit.edu/#5560083112919040)
 > An interactive app where you tilt the screen to and try not to hit the maze to get gold. Done with a partner
+
+[Food Chase](https://ai2.appinventor.mit.edu/#4711762697781248)
+> An interactive app where you flick the ball to try to chase the sport balls. Done with a partner 
