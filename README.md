@@ -53,4 +53,8 @@ https://studio.code.org/projects/gamelab/Om2F4hEM0mvVuCnT-Vqk07XBQ3LMlu2CzQfyEQW
 > An interactive app where you tilt the screen to and try not to hit the maze to get gold. Done with a partner
 
 [Food Chase](https://ai2.appinventor.mit.edu/#4711762697781248)
-> An interactive app where you flick the ball to try to chase the sport balls. Done with a partner 
+> An interactive app where you flick the ball to try to chase the sport balls. Done with a partner
+
+[Creative Project](https://academy.cs.cmu.edu/exercise/4133/)
+> A coded drawing of promo art for Kessoku Band
+
