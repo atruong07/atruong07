@@ -40,6 +40,7 @@ https://studio.code.org/projects/gamelab/Om2F4hEM0mvVuCnT-Vqk07XBQ3LMlu2CzQfyEQW
 [Project Design a Game](https://studio.code.org/projects/gamelab/TDU0uPWtUyM0fjsySh5PquyyW2tAHy9knBjhIv1NN9E)
 > An interactive flotating, platform, obtain targets, with buttons and several different screens, using variables, sprites, scales, if, is.Touching, multiple conditionals, velocityY, keyDown, loops, etc.
 
+### App Inventor
 [Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=c070a5e5-3016-4d77-870e-e04b44a09f4b)
 > An interactive app where you can press on the instruments one by one to hear the sound it makes!
 
@@ -55,6 +56,10 @@ https://studio.code.org/projects/gamelab/Om2F4hEM0mvVuCnT-Vqk07XBQ3LMlu2CzQfyEQW
 [Food Chase](https://ai2.appinventor.mit.edu/#4711762697781248)
 > An interactive app where you flick the ball to try to chase the sport balls. Done with a partner
 
-[Creative Project](https://academy.cs.cmu.edu/exercise/4133/)
+### CMU Python
+[Unit 1 Creative Project](https://academy.cs.cmu.edu/exercise/4133/)
 > A coded drawing of promo art for Kessoku Band
+
+[Unit 2 Creative Project](https://academy.cs.cmu.edu/exercise/4190/)
+> A coded app where you click on the screen to put eggs in the basket. Done with a partner 
 
