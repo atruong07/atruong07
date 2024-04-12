@@ -61,5 +61,11 @@ https://studio.code.org/projects/gamelab/Om2F4hEM0mvVuCnT-Vqk07XBQ3LMlu2CzQfyEQW
 > A coded drawing of promo art for Kessoku Band
 
 [Unit 2 Creative Project](https://academy.cs.cmu.edu/exercise/4190/)
-> A coded app where you click on the screen to put eggs in the basket. Done with a partner 
+> A coded app where you click on the screen to put eggs in the basket. Done with a partner
+
+[Unit 3 Creative Project](https://academy.cs.cmu.edu/exercise/4236/)
+> A coded app where depending where your mouse is, it's either a sunny day or a rainy day. Done with a partner
+
+[Unit 4 Creative Project](https://academy.cs.cmu.edu/exercise/4282/)
+> A coded app where when you press different numbers on your keyboard the petals will change colors. 
 
