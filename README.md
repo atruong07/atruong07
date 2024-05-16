@@ -67,5 +67,8 @@ https://studio.code.org/projects/gamelab/Om2F4hEM0mvVuCnT-Vqk07XBQ3LMlu2CzQfyEQW
 > A coded app where depending where your mouse is, it's either a sunny day or a rainy day. Done with a partner
 
 [Unit 4 Creative Project](https://academy.cs.cmu.edu/exercise/4282/)
-> A coded app where when you press different numbers on your keyboard the petals will change colors. 
+> A coded app where when you press different numbers on your keyboard the petals will change colors.
+
+[Unit 5 Creative Project](https://academy.cs.cmu.edu/exercise/4314/)
+> A coded app where when you press the arrow keys to make the butterfly fly through the air 
 
